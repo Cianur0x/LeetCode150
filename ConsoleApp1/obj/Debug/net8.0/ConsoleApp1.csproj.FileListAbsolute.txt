@@ -1,0 +1,14 @@
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+d:\Program Files\Documentos\GitHub\LeetCode150\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
